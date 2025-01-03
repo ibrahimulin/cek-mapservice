@@ -11,7 +11,7 @@ The code requires several dependencies for running
 ```
 
 ## How to use
-Load Jupyter Notebook file to your local machine
+Load Jupyter Notebook [file](https://github.com/ibrahimulin/cek-mapservice/blob/main/Cek%20service%20All.ipynb) to your local machine
 
 Replace start_url part with any url you want to check
 ```bash
